@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>Créations</title>
+    <link rel="stylesheet" href="/css/index.css">
+    <link rel="stylesheet" href="/css/creation.css">
+    <script src="/js/index.js"></script>
+    <script src="/js/creation.js"></script>
+    <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Niconne&display=swap" rel="stylesheet">
+</head>
+<body onload="SetTime()">
+    <div class="scrollmenu">
+        <a href="/">Présentation</a>
+        <a class="active" href="/html/creation.html">Créations</a>
+        <a href="/html/contact.html">Contacter</a>
+    </div>
+    <p>Errare humanum est, perseverare diabolicum</p>
+    <h1>Créations</h1>
+
+    <div class="row">
+        <div class="column">
+            <div class="content">
+                <img src="/assets/img/creation/fbttf.png" alt="FBTTF">
+                <h3>RPG [C][CSFML]</h3>
+                <button class="open" onclick="openInfo('fbttf')">+ info</button>
+            </div>
+        </div>
+    </div>
+
+    <footer>
+        <p id="time">loading . . .</p>
+    </footer>
+
+    <!-- animated square -->
+    <div class="area" >
+        <ul class="circles">
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+        </ul>
+    </div >
+
+    <!-- wave at the bottom -->
+    <div class="waveWrapper waveAnimation">
+        <div class="waveWrapperInner bgTop">
+            <div class="wave waveTop" style="background-image: url('/assets/img/wave/wave-top.png')"></div>
+        </div>
+        <div class="waveWrapperInner bgMiddle">
+            <div class="wave waveMiddle" style="background-image: url('/assets/img/wave/wave-mid.png')"></div>
+        </div>
+        <div class="waveWrapperInner bgBottom">
+            <div class="wave waveBottom" style="background-image: url('/assets/img/wave/wave-bot.png')"></div>
+        </div>
+    </div>
+</body>
+</html>
