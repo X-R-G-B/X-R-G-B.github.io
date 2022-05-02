@@ -29,23 +29,21 @@ div.scrollmenu .active, div.scrollmenu a:hover {
 }
 h1 {
     position: relative;
-    font-family: "Niconne", cursive; 
-    font-size: 60px; 
-    font-style: normal; 
-    font-variant: normal; 
-    font-weight: 700; 
-    line-height: 26.4px; 
+    font-size: 60px;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 700;
+    line-height: 26.4px;
     text-align: center;
     color: rgb(164, 162, 255);
     z-index: 9;
 }
 h3 {
     position: relative;
-    font-family: "Niconne", cursive; 
-    font-size: 40px; 
-    font-style: normal; 
-    font-variant: normal; 
-    font-weight: 700; 
+    font-size: 40px;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 700;
     line-height: 15.4px;
     text-align: center;
     color: rgb(191, 146, 250);
@@ -57,24 +55,22 @@ footer p {
 }
 p {
     position: relative;
-    font-family: "Niconne", cursive; 
-    font-size: 30px; 
-    font-style: normal; 
-    font-variant: normal; 
-    font-weight: 400; 
-    line-height: 20px; 
+    font-size: 30px;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 400;
+    line-height: 20px;
     text-align: center;
     color: rgb(203, 163, 255);
     z-index: 9;
 }
 a {
     position: relative;
-    font-family: "Niconne", cursive; 
-    font-size: 30px; 
-    font-style: normal; 
-    font-variant: normal; 
-    font-weight: 400; 
-    line-height: 20px; 
+    font-size: 30px;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 400;
+    line-height: 20px;
     text-align: center;
     z-index: 9;
 }
