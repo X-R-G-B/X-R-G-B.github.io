@@ -35,9 +35,11 @@ div.column {
 }
 
 video {
+    position: relative;
     z-index: 11;
 }
 
 source {
+    position: relative;
     z-index: 11;
 }
