@@ -35,9 +35,9 @@ div.column {
 }
 
 video {
-    z-index: 9;
+    z-index: 11;
 }
 
 source {
-    z-index: 9;
+    z-index: 11;
 }
