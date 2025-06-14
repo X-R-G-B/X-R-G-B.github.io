@@ -9,6 +9,7 @@ description: RPG project made for a school project.
 
 - [fbttf posts](https://x-r-g-b.github.io/X-R-G-B.github.io/blog/tags#fbttf)
 - [itch.io page](https://xlrgb.itch.io/fbttf)
+- [source code](https://github.com/X-R-G-B/FlashBackToTheFuture)
 
 ### Game Synopsis
 
