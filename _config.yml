@@ -1,0 +1,84 @@
+### Site Settings ###
+title               : XLRGB
+description         : >-
+                      Some friends developping software together.
+                      Curently making EndlessJounrey:
+                      Immerse yourself in a horror/co-op game
+                      where each session is a unique experience.
+repository          : X-R-G-B/EndlessJourney-public      # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
+remote_theme        : yousinix/portfolYOU@v2.3.0
+open_new_tab        : false                    # Opens external URLs in new tab (works for posts, projects and navbar only)
+
+
+### Plugins ###
+plugins:
+  - jemoji
+
+
+### Navbar Settings ###
+nav_exclude:                                            # The following paths are excluded from navbar
+  - pages/tags.html
+  - pages/404.html
+  - pages/index.md
+
+
+### Author Info ###
+author:
+  name              : XLRGB
+  image             : https://avatars.githubusercontent.com/u/102259774
+  github            : X-R-G-B
+  instagram         : endless.journey_xlrgb
+# linkedin          : your_username
+# medium            : your_username
+# twitch            : your_username
+# twitter           : your_username
+  youtube           : XLRGBTEAM
+
+
+### Posts ###
+permalink: /blog/:title
+
+
+### Collections ###
+collections:
+  projects:
+    output: true
+    permalink: /projects/:name
+
+
+### Disqus ###
+disqus:
+  shortname: your-short-name-disqus-does-not-exist      # Your website Shortname on disqus
+
+
+### Analytics ###
+analytics:
+  enabled: false                                        # Set true to enable analytics
+
+
+### Buy me a coffee ###
+buymeacoffee:
+  enabled: false
+
+
+### Defaults for collections ###
+defaults:
+  - scope:
+      path: ""
+      type: "projects"
+    values:
+      layout: "page"
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      comments: false                                   # Set to true to enable disqus comments
+
+
+### Exclude from processing ###
+exclude:
+  - README.md
+  - CONTRIBUTING.md
+  - LICENSE
+  - "*.log"
+  - vendor/*
