@@ -1,13 +1,13 @@
 ---
 name: FlashBackToTheFuture
 tools: [C, CSFML, RPG]
-image: https://raw.githubusercontent.com/X-R-G-B/EndlessJourney-public/refs/heads/main/__assets/_projects/FlashBackToTheFuture/fbttf.png
+image: https://raw.githubusercontent.com/X-R-G-B/X-R-G-B.github.io/refs/heads/main/__assets/_projects/FlashBackToTheFuture/fbttf.png
 description: RPG project made for a school project.
 ---
 
 # FlashBackToTheFuture
 
-- [fbttf posts](https://x-r-g-b.github.io/EndlessJourney-public/blog/tags#fbttf)
+- [fbttf posts](https://x-r-g-b.github.io/X-R-G-B.github.io/blog/tags#fbttf)
 - [itch.io page](https://xlrgb.itch.io/fbttf)
 
 ### Game Synopsis
@@ -24,7 +24,7 @@ Enjoy your adventure.
 
 The amazing RPG The Best RPG 
 
-{::nomarkdown}<img src="https://raw.githubusercontent.com/X-R-G-B/EndlessJourney-public/refs/heads/main/__assets/_projects/FlashBackToTheFuture/fbttf.png">{:/}
+{::nomarkdown}<img src="https://raw.githubusercontent.com/X-R-G-B/X-R-G-B.github.io/refs/heads/main/__assets/_projects/FlashBackToTheFuture/fbttf.png">{:/}
 
 ## Trailer
 
