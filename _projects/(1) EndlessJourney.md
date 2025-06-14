@@ -9,5 +9,5 @@ description: Immerse yourself in a horror/co-op game where each session is a uni
 
 # EndlessJourney
 
-- [endlessjourney posts](https://x-r-g-b.github.io/X-R-G-B.github.io/blog/tags#endlessjourney)
+- [endlessjourney posts](https://x-r-g-b.github.io/blog/tags#endlessjourney)
 - [itch.io page](https://xlrgb.itch.io/endless-journey)
