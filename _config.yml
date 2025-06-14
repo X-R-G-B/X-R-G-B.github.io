@@ -1,10 +1,10 @@
 ### Site Settings ###
 title               : XLRGB
 description         : >-
-                      Some <strong>friends developping software</strong> together.
-                      Curently making **EndlessJounrey**:
-                      Immerse yourself in a horror/co-op game
-                      where each session is a unique experience.
+                      Some <mark>friends</mark> <b>developping software</b> <i>together</i>.
+                      Curently making <mark>EndlessJounrey</mark>:
+                      <i>Immerse yourself in a horror/co-op game
+                      where each session is a unique experience.<i>
 repository          : X-R-G-B/X-R-G-B.github.io      # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 remote_theme        : yousinix/portfolYOU@v2.3.0
 open_new_tab        : false                    # Opens external URLs in new tab (works for posts, projects and navbar only)
