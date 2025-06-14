@@ -1,3 +1,3 @@
 # EndlessJourney
 
-code for the site [here](https://x-r-g-b.github.io/EndlessJourney-public/)
+code for the site [x-r-g-b.github.io](https://x-r-g-b.github.io/)
