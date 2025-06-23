@@ -17,7 +17,7 @@ Today, it's a showcase of some features.
 
 | ### | ### |
 | --- | --- |
-| {::nomarkdown}<video controls loop autoplay><source src="https://raw.githubusercontent.com/X-R-G-B/X-R-G-B.github.io/refs/heads/main/__assets/_posts/2025-06-23-updates-on-endless-journey/animation-system-1.mp4" type="video/mp4"></video>{:/} | {::nomarkdown}<video controls loop autoplay><source src="https://raw.githubusercontent.com/X-R-G-B/X-R-G-B.github.io/refs/heads/main/__assets/_posts/2025-06-23-updates-on-endless-journey/animation-system-1.mp4" type="video/mp4"></video>{:/} |
+| {::nomarkdown}<video controls loop autoplay><source src="https://raw.githubusercontent.com/X-R-G-B/X-R-G-B.github.io/refs/heads/main/__assets/_posts/2025-06-23-updates-on-endless-journey/animation-system-1.mp4" type="video/mp4"></video>{:/} | {::nomarkdown}<video controls loop autoplay><source src="https://raw.githubusercontent.com/X-R-G-B/X-R-G-B.github.io/refs/heads/main/__assets/_posts/2025-06-23-updates-on-endless-journey/animation-system-2.mp4" type="video/mp4"></video>{:/} |
 
 ## Atmosphere
 
@@ -26,7 +26,6 @@ The fog settings are amazing, tank you again [TTENSHII](https://github.com/TTENS
 | ### | ### |
 | --- | --- |
 | {::nomarkdown}<video controls loop autoplay><source src="https://raw.githubusercontent.com/X-R-G-B/X-R-G-B.github.io/refs/heads/main/__assets/_posts/2025-06-23-updates-on-endless-journey/atmosphere-1.mp4" type="video/mp4"></video>{:/} | {::nomarkdown}<video controls loop autoplay><source src="https://raw.githubusercontent.com/X-R-G-B/X-R-G-B.github.io/refs/heads/main/__assets/_posts/2025-06-23-updates-on-endless-journey/atmosphere-2.mp4" type="video/mp4"></video>{:/} |
-| {::nomarkdown}<video controls loop autoplay><source src="https://raw.githubusercontent.com/X-R-G-B/X-R-G-B.github.io/refs/heads/main/__assets/_posts/2025-06-23-updates-on-endless-journey/atmosphere-3.mp4" type="video/mp4"></video>{:/} | |
 
 ## Enemies
 
