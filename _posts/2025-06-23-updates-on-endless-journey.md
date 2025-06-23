@@ -17,7 +17,7 @@ Today, it's a showcase of some features.
 
 | ### | ### |
 | --- | --- |
-| ![animation-system-1](https://raw.githubusercontent.com/X-R-G-B/X-R-G-B.github.io/refs/heads/main/__assets/_posts/2025-06-23-updates-on-endless-journey/animation-system-1.mp4) | ![animation-system-2](https://raw.githubusercontent.com/X-R-G-B/X-R-G-B.github.io/refs/heads/main/__assets/_posts/2025-06-23-updates-on-endless-journey/animation-system-1.mp4) |
+| {::nomarkdown}<video controls loop autoplay><source src="https://raw.githubusercontent.com/X-R-G-B/X-R-G-B.github.io/refs/heads/main/__assets/_posts/2025-06-23-updates-on-endless-journey/animation-system-1.mp4" type="video/mp4"></video>{:/} | {::nomarkdown}<video controls loop autoplay><source src="https://raw.githubusercontent.com/X-R-G-B/X-R-G-B.github.io/refs/heads/main/__assets/_posts/2025-06-23-updates-on-endless-journey/animation-system-1.mp4" type="video/mp4"></video>{:/} |
 
 ## Atmosphere
 
@@ -25,8 +25,8 @@ The fog settings are amazing, tank you again [TTENSHII](https://github.com/TTENS
 
 | ### | ### |
 | --- | --- |
-| ![atmosphere-1](https://raw.githubusercontent.com/X-R-G-B/X-R-G-B.github.io/refs/heads/main/__assets/_posts/2025-06-23-updates-on-endless-journey/atmosphere-1.mp4) | ![atmosphere-2](https://raw.githubusercontent.com/X-R-G-B/X-R-G-B.github.io/refs/heads/main/__assets/_posts/2025-06-23-updates-on-endless-journey/atmosphere-2.mp4)
-| ![atmosphere-1](https://raw.githubusercontent.com/X-R-G-B/X-R-G-B.github.io/refs/heads/main/__assets/_posts/2025-06-23-updates-on-endless-journey/atmosphere-3.mp4) | |
+| {::nomarkdown}<video controls loop autoplay><source src="https://raw.githubusercontent.com/X-R-G-B/X-R-G-B.github.io/refs/heads/main/__assets/_posts/2025-06-23-updates-on-endless-journey/atmosphere-1.mp4" type="video/mp4"></video>{:/} | {::nomarkdown}<video controls loop autoplay><source src="https://raw.githubusercontent.com/X-R-G-B/X-R-G-B.github.io/refs/heads/main/__assets/_posts/2025-06-23-updates-on-endless-journey/atmosphere-2.mp4" type="video/mp4"></video>{:/} |
+| {::nomarkdown}<video controls loop autoplay><source src="https://raw.githubusercontent.com/X-R-G-B/X-R-G-B.github.io/refs/heads/main/__assets/_posts/2025-06-23-updates-on-endless-journey/atmosphere-3.mp4" type="video/mp4"></video>{:/} | |
 
 ## Enemies
 
@@ -36,7 +36,7 @@ Again, maybe [mE0w](https://github.com/romainpanno) will make a devlog about the
 
 | ### |
 | --- |
-| ![enemies-1](https://raw.githubusercontent.com/X-R-G-B/X-R-G-B.github.io/refs/heads/main/__assets/_posts/2025-06-23-updates-on-endless-journey/enemies-1.mp4) |
+| {::nomarkdown}<video controls loop autoplay><source src="https://raw.githubusercontent.com/X-R-G-B/X-R-G-B.github.io/refs/heads/main/__assets/_posts/2025-06-23-updates-on-endless-journey/enemies-1.mp4" type="video/mp4"></video>{:/} |
 
 ## Consumables
 
@@ -44,7 +44,7 @@ We added some consumables, it is not finished, but you can also see how interact
 
 | ### |
 | --- |
-| ![consumables-1](https://raw.githubusercontent.com/X-R-G-B/X-R-G-B.github.io/refs/heads/main/__assets/_posts/2025-06-23-updates-on-endless-journey/consumables-1.mp4) |
+| {::nomarkdown}<video controls loop autoplay><source src="https://raw.githubusercontent.com/X-R-G-B/X-R-G-B.github.io/refs/heads/main/__assets/_posts/2025-06-23-updates-on-endless-journey/consumables-1.mp4" type="video/mp4"></video>{:/} |
 
 ## LLM
 
@@ -54,6 +54,6 @@ Here is a loading screen when the LLM is generating the texts :smile:
 
 | ### |
 | --- |
-| ![loading-1](https://raw.githubusercontent.com/X-R-G-B/X-R-G-B.github.io/refs/heads/main/__assets/_posts/2025-06-23-updates-on-endless-journey/loading-1.mp4) |
+| {::nomarkdown}<video controls loop autoplay><source src="https://raw.githubusercontent.com/X-R-G-B/X-R-G-B.github.io/refs/heads/main/__assets/_posts/2025-06-23-updates-on-endless-journey/loading-1.mp4" type="video/mp4"></video>{:/} |
 
 ## End
