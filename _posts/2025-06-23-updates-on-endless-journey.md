@@ -1,6 +1,6 @@
 ---
 title: Updates on EndlessJourney
-tags: [EndlessJourney, Devlog, Unreal Engine]
+tags: [EndlessJourney, Devlog]
 style: fill
 color: secondary
 description: Some preview of what we are making.
