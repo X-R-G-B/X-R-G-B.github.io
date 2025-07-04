@@ -11,3 +11,4 @@ description: Immerse yourself in a horror/co-op game where each session is a uni
 
 - [endlessjourney posts](https://x-r-g-b.github.io/blog/tags#endlessjourney)
 - [itch.io page](https://xlrgb.itch.io/endless-journey)
+- [community forum](https://xlrgb.itch.io/endless-journey/community)
