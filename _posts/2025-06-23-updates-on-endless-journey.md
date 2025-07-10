@@ -21,7 +21,7 @@ Today, it's a showcase of some features.
 
 ## Atmosphere
 
-The fog settings are amazing, tank you again [TTENSHII](https://github.com/TTENSHII).
+The fog settings are amazing, thank you again [TTENSHII](https://github.com/TTENSHII).
 
 | ### | ### |
 | --- | --- |
